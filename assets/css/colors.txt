@@ -1,0 +1,3 @@
+Color 1: #96e58f (Mint Green)
+Color 2: #53d68e (Mint Green)
+Color 3: #22b17a (Mint Green)

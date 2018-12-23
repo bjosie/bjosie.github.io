@@ -146,15 +146,28 @@ input, select, textarea {
 		-ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		text-decoration: none;
-		color: #e0e0e0;
+		color: #b7fff3; 
 		border-bottom: dotted 1px rgba(88, 88, 88, 0.5);
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #f2849e !important;
+			/*color: #f2849e !important;*/
+			color: #00ffd4 !important;
 		}
+	
+	.minttext{
+			color: #89ffbe;
+	}
 
+	.purpletext{
+		color: #d5a1f4;
+	}
+
+	.blacktext{
+		color: #202020;
+	}
+		
 	strong, b {
 		font-weight: 900;
 	}
@@ -1841,8 +1854,8 @@ input, select, textarea {
 			}
 
 			.icon.style2:hover {
-				color: #f2849e;
-				border-color: #f2849e;
+				color: #b7fff3;
+				border-color: #b7fff3;
 			}
 
 			.icon.style2:active {
