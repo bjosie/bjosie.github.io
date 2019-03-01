@@ -30,7 +30,8 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
-	background-color: gray;
+	
+	/*background-color: gray;*/
 	line-height: 1;
 }
 
